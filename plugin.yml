@@ -1,0 +1,11 @@
+main: com.venomapps.su.Main
+name: SU
+version: '1.0.0'
+description: SimpleHub (SU) a plugin that sends a player to your default BungeeCord server with /hub command.
+author: Venom Apps
+website: venomapps.com
+prefix: ABPS
+commands:
+  hub:
+    description: The main command of the plugin. Send the player who executed to the default BungeeCord server.
+    usage: "Usage: /hub"
