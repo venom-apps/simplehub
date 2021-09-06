@@ -7,5 +7,5 @@ website: venomapps.com
 prefix: ABPS
 commands:
   hub:
-    description: The main command of the plugin. Send the player who executed to the default BungeeCord server.
+    description: The main command of the plugin. Sends the player who executed to the default BungeeCord server.
     usage: "Usage: /hub"
